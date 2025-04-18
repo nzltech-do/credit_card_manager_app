@@ -1,0 +1,12 @@
+name: credit_card_manager
+description: A simple app to manage credit cards.
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
